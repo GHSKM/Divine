@@ -4,7 +4,8 @@ title: Navagraha Temple Pilgrimage
 date: 2015-01-15 11:20
 author: admin
 comments: true
-categories: [Pilgrimage, Sacred Ceremony, Temples]
+categories:
+  - Pilgrimage
 ---
 <p>Launch on a odyssey of the galaxy to circumambulate the Temples dedicated to the 9 Planets the Navagrahas or the 9 celestial bodies.</p>
 <p>The celestial bodies are reflections in our own self.</p>

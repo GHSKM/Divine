@@ -4,7 +4,8 @@ title: Himalayan Retreat - Journey from self to SELF
 date: 2015-01-17 10:56
 author: admin
 comments: true
-categories: [Himalayas, Pilgrimage, Rafting, Spiritual, Treks, Yog Vasishtha]
+categories:
+  - Pilgrimage
 ---
 <p>In the journey of every human life, there comes a point, where you experience everything! You know what is futile; but you do not know what is Real! At this point one needs the company of the wise ones to mature the understanding which then flowers and awakens the Intelligence. This awakening becomes the guiding light to lead one towards an aware life-style!... Life becomes a joy in every moment!!...Spend a week with enlightened masters as we explore sacred places, worship at ancient temples, perform sacred ceremonies, enjoy natural beauty, and experience adventure and learn the secrets of  the scripture “Yog Vasishtha”</p>
 <p><strong style="line-height: 1.5;">Rishikesh</strong><span style="line-height: 1.5;"> </span></p>
