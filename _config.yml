@@ -1,32 +1,24 @@
 # ----
 # Site
 
-title: Divine Explorer
-url: "https://divineexplorer.com"
-# baseurl: "https://divineexplorer.com"
-# google_analytics_key:
-# google_maps_javascript_api_key:
-# disqus_shortname:
+title: Justice Template
+url: "https://orchid-heron.cloudvent.net"
+baseurl:
+google_analytics_key:
+google_maps_javascript_api_key:
+disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /logo.png
-description: Combine learning spiritual wisdom with travel.We invite you to become a part of Divine Explorer as you join our travels and become a part of creating a more conscious society.
+logo: /siteicon.png
+description: Jekyll template with example content for a law firm.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Divine Explorer
-
-collections:
-  guides:
-    output: true
-    permalink: /guides/:path/
-  journeys:
-    output: true
-    permalink: /journeys/:path/
-  
- 
+  name: Justice Template
+  links:
+    - https://github.com/CloudCannon/justice-jekyll-template
 
 # -----
 # Build
@@ -34,7 +26,8 @@ collections:
 paginate: 10
 paginate_path: "/advice/:num/"
 
-
+collections:
+  - "staff_members"
 
 defaults:
   -
@@ -57,7 +50,14 @@ defaults:
       _comments:
         image: Shown in social shares and the advice list.
   -
-   
+    scope:
+      path: ""
+      type: "staff_members"
+    values:
+      _options:
+        image:
+          width: 440
+          height: 440
 
 permalink: pretty
 
@@ -66,8 +66,8 @@ jekyll-archives:
     - categories
 
 gems:
+  - jekyll-archives
   - jekyll-sitemap
-  - jekyll-archives  
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
@@ -77,9 +77,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
-  - node_modules
-  - gulpfile.js
-  - package.json
+
 # -----------
 # CloudCannon
 
