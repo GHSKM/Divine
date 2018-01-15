@@ -58,8 +58,7 @@ defaults:
         image: Shown in social shares and the advice list.
   -
    
-highlighter: true
-markdown: kramdown
+
 permalink: pretty
 
 jekyll-archives:
