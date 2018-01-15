@@ -12,14 +12,12 @@ navigation_order: 4
 		<div class="col-md-12">
 			<img src= "{{page.header_image_path}}" alt="spiritual">
 		</div>
-
 	</div>
 	<div class="row ">
 		<div class="col-md-12 center">
 			<h2 class="pageHeader">Why Spiritual Journeys</h2>
 		</div>
-	</div>
-	
+	</div>	
 		<div class="row">
 			<div class="col-md-7">
 				<h4><b>Why do we travel?</b></h4>
@@ -36,7 +34,6 @@ navigation_order: 4
                 <h4>Why not change your journeys to transformational experiences?</h4>
                 	<ul class="list">
                         <li>Grow in wisdom as you travel</li>
-
                         <li>Grow in awareness as you connect with nature and sacred</li>
                         <li>Embark on your journey towards the truth...Find your life mission</li>
                         <li>Connect with your self , like minded people and sacred energies</li>
@@ -46,5 +43,5 @@ navigation_order: 4
                         <li>Explore outer and inner world</li>
                     </ul>
                 </div>
-		</div>
+                </div>
 </div>

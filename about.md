@@ -12,7 +12,6 @@ navigation_order: 1
 		<div class="col-md-12">
 			<img src= "{{page.header_image_path}}" alt="About Divine Explorer">
 		</div>
-
 	</div>
 	<div class="row ">
 		<div class="col-md-12 center">
@@ -31,7 +30,6 @@ navigation_order: 1
 				</li>
 			</ul>
 		</div>
-
 	</div>
 	<div id="Divine-Explorer">
 		<div class="row">
@@ -47,7 +45,6 @@ navigation_order: 1
 				<h4> Divine Explorer is community of open minded spiritual seekers from different paths and culture, dedicated to help people
 					transform lives through learning and travel. We combine destinations with wisdom and help you grow with experiences
 					of travel and learning new wisdom.
-
 				</h4>
 			</div>
 		</div>
@@ -80,7 +77,6 @@ navigation_order: 1
 						journeys are carefully crafted to include elements of meditation, holistic exercises, yoga therapy, and learning sessions
 						that guide us closer to knowing ourselves better, as we travel to exotic locations led by insightful masters and inner
 						journey guides.</li>
-
 				</ul>
 			</div>
 		</div>
@@ -103,14 +99,11 @@ navigation_order: 1
 					<li>One stop answer to destination management and your personal learning and inner awakening</li>
 					<li>Travel, grow and learn with the masters - your inner journey guides</li>
 					<li>Holistic approach in travel, we nourish the mind, body spirit and soul.</li>
-
-
 				</ul>
 				<p>Contact us to discuss your ideas, requirements. Let Divine Explorer take care of all your needs and arrangements as you
 					embark on your transformational trip !</p>
 			</div>
 		</div>
-
 	</div>
 	<div id="Why-Travel">
 		<div class="row">
@@ -138,5 +131,4 @@ navigation_order: 1
 			</div>
 		</div>
 	</div>
-
 </div>

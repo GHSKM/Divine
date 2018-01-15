@@ -8,7 +8,6 @@ show_in_navigation: true
 navigation_order: 1
 ---
 <h3 class="pageHeader"><b>Frequently Asked Questions</b></h3>
-
 <p><b>Q- I am interested in going for a divine journey, but am unable to join on the given dates.</b></p>
 <p>We can tailor make a personalized experience for you and your group on your chosen dates.</p>
 <p><b>Q- What are sacred sites</b></p>

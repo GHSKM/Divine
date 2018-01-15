@@ -9,5 +9,4 @@ permalink: /journeys/:path
     <div class="col-md-8">
         {{content}}
     </div>
-
-</div> 
+</div>
